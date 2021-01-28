@@ -1,0 +1,53 @@
+*,
+*::before,
+*::after{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+	
+
+a:hover {
+	text-decoration: none;
+
+}
+
+img {
+	vertical-align: top;
+}
+
+
+
+.rainbow {
+  background: linear-gradient(to right, red, yellow, cyan, blue, violet);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+span.blue {
+	color: blue;
+}
+
+span.brown {
+	color: brown;
+}
+
+span.red {
+	color: red;
+}
+
+span.violet {
+	color: violet;
+}
+
+p.text {
+	color: gray;
+}
+
+#black {
+	color: black;
+}
+
